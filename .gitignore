@@ -1,0 +1,13 @@
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.ipynb_checkpoints
+.Trashes
+.
+..
+.git
+__pycache__/
